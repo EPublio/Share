@@ -1,4 +1,4 @@
-# share_pi
+# Share
 Projeto integrador II - Share
 
 Projeto deselvolvido por Denner Moraes dos Santos, Emanuel Fernando Mello da Silva, Emmanuel Públio Santos Martins, Marcelo Webber Macuglia, Miguel Gutierres Kieling Villegas.
