@@ -1,8 +1,8 @@
 <?php
 try {
-$user_bd = 'lazyph90_aluno';
-$senha_bd = '1+^$?WjFAc[l';
-$bd = 'lazyph90_tecnico2022';
+$user_bd = '';
+$senha_bd = '';
+$bd = '';
 $conexao = new \PDO('mysql:host=localhost; dbname='.$bd, $user_bd, $senha_bd);
 
 } catch (\PDOExeptiom $e) {
