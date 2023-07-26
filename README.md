@@ -1,4 +1,4 @@
 # Share
-Projeto deselvolvido durante a unidade curricular Projeto Integrador II.
+Site de troca de livros, utilizando HTML, CSS, JS, e PHP.
 
-O objetivo do projeto era deselvolver um site para a troca de livros, utilizamos apenas tecnologias trabalhadas durante nosso curso técnico (HTML, CSS, JS, PHP, MySQL).
+Implementado sistema de verificação de login com token, diferentes formas de queries SQL.  
